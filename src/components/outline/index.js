@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { Fragment, PureComponent } from 'react';
-import { View, Animated, I18nManager } from 'react-native';
+import { View, Animated, I18nManager, Text } from 'react-native';
 
 import styles, { borderRadius } from './styles';
 
